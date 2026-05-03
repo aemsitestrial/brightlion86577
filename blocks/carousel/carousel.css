@@ -141,7 +141,7 @@ main > .section .carousel-wrapper {
     content: '';
     border-bottom: 0;
     border-left: 0;
-    height: 12px;
+    height: 13px;
     width: 12px;
     position: absolute;
     top: 50%;
